@@ -11,7 +11,7 @@
 	<groupId>com.shree</groupId>
 	<artifactId>badminton-dashboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>badminton-dashboard</name>
+	<name>ipl-dashboard</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
